@@ -1,4 +1,4 @@
 # 9gagMemeDownload
 
-Downloads either all memes or a specified number of memes from the specified 9gag section.
+Specify the max number of memes to download by either number or "all".<br />
 Uses selenium webdriver.
